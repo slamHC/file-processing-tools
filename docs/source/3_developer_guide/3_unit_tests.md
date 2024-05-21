@@ -158,7 +158,7 @@ Unit tests can either be run through the IDE's test runner or from terminal. For
 
 It may take a few moments to finish setup, but afterwards, these tests will automatically refresh when the code is saved, and they can be executed via the run button at the top of the test runner menu. This runner provides a user-friendly way to run specific tests and see which tests pass or fail.
 
-When conducting tests in PyCharm, it's important to set the project root as the Working Directory in the test configuration. You can do this by navigating to Run > Edit Configurations in the top-left menu.
+Note that when conducting tests in PyCharm, it's important to set the project root as the Working Directory in the test configuration. You can do this by navigating to Run > Edit Configurations in the top-left menu.
 ```{tab} Pycharm Setup
 ```{image} ../resources/test_pycharm_setup.png
 :align: center
